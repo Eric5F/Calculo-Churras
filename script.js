@@ -1,7 +1,7 @@
-// Carne - 400gr por Pessoa ou +6h - 650gr por Pessoa
-// Cerveja - 1200ml por Pessoa ou +6h - 2000ml por Pessoa (menos crianças)
-// Bebida (Refrigerante/Agua) - 1000ml por Pessoa ou +6h - 1500ml por Pessoa
-// Crianças valem por 0,5 Pessoa
+// Carne - 400gr por Pessoa ou +6h - 650gr por Pessoa.
+// Cerveja - 1200ml por Pessoa ou +6h - 2000ml por Pessoa (menos crianças).
+// Bebida (Refrigerante/Agua) - 1000ml por Pessoa ou +6h - 1500ml por Pessoa.
+// Crianças valem por 0,5 Pessoa.
 
 
 let inputAdultos = document.getElementById("adultos");
