@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./style.css"/>
+    <link rel = "icon" href="./Images/Logo1.jpg" type="image/jpg">
+    <title>Churrascômetro</title>
+</head>
+<body>
+    
+    
+    <div class="container">
+
+        <h1>Churrascômetro</h1>
+        
+        <input id="adultos" name="adultos" type="number" min="0" max="200" placeholder="Adultos">
+        <input id="criancas" name="criancas" type="number" min="0" max="200" placeholder="Crianças">
+        <input id="duracao" name="duracao" type="number" min="0" max="72" placeholder="Duração (horas)">
+        <input id="button" name="executar" type="submit" value="Churrascar" onclick="calcular()">
+        <input type="reset" value="Limpar" onclick="zerar()">
+        
+    <div id="resultado"></div>
+        
+    </div>
+
+    <script src= "./script.js"></script>
+</body>
+</html>

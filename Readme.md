@@ -1,0 +1,1 @@
+Projeto que calcula quantidade de carnes e bebidas conforme número de pessoas convidadas.
